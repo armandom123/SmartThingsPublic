@@ -21,3 +21,6 @@
 
 # Build files
 /build
+
+# Oops
+/alarmserver
